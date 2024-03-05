@@ -1,0 +1,24 @@
+head {
+    font-size:23px ;   
+   }
+
+   body {
+     background-color:black ;
+     color:whitesmoke ;  
+   }
+
+   a{
+    color:green ;
+   }
+
+  a:visited{
+    color:red ;
+   }
+
+  a:hover{
+    color: bisque;
+  }
+
+
+
+
